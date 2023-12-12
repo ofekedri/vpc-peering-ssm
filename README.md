@@ -9,10 +9,12 @@ Clone the repository
 Edit provider.tf file and adjust region
 
 Add credentials to github actions secrets/variables:
-secres: :
+<br>
+secrets:
 * AWS_ACCESS_KEY_ID
 * AWS_SECRET_ACCESS_KEY
 * TFSTATE_BUCKET
+  
 variables:
 * TFSTATE_KEY
 * TFSTATE_REGION
