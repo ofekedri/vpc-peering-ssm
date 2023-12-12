@@ -5,6 +5,7 @@ Description: Terraform module to create a VPC's with private subnets, SSM sessio
 <br>
 <h3> Let's get started </h3>
 Clone the repository
+
 ```
 git clone https://github.com/ofekedri/vpc-peering-ssm
 cd vpc-peering-ssm
